@@ -1,3 +1,3 @@
-# JSON-FRAGMENT
-App JSON using Fragment layout
+# TUGAS KULIAH
+Tugas kuliah lab Gunadarma
 
